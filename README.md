@@ -37,3 +37,4 @@ Project folders structure:
 
 ![proj_structure](https://user-images.githubusercontent.com/69169627/226171105-efa22bdd-5e02-4f98-bbfc-59cc5d4416c3.png)
 
+The project can be compiled using the free Keil MDK Community Edition: https://www2.keil.com/mdk5/editions/community
