@@ -14,11 +14,17 @@ The board includes: I/O logic level 1.8V/3.3V translators (2 x TXB0104 - an appl
 Interconnections:
 
 #define SDIO_D0_PIN   84
+
 #define SDIO_D1_PIN   85
+
 #define SDIO_D2_PIN   86
+
 #define SDIO_D3_PIN   87
+
 #define SDIO_CLK_PIN  88
+
 #define SDIO_CMD_PIN  83
+
 #define SDIO_PWR      56
 
 Card initialization scope diagram:
