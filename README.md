@@ -22,14 +22,18 @@ Interconnections:
 #define SDIO_PWR      56
 
 Card initialization scope diagram:
+
 ![sd_init](https://user-images.githubusercontent.com/69169627/226170341-06f83fde-5c2f-45b2-8b62-35dec15a0acb.png)
 
 Data block write & read diagram:
+
 ![block_write_read](https://user-images.githubusercontent.com/69169627/226170364-9f9e4255-563e-4e21-bdab-5ddf28e78c21.png)
 
 UART console output:
+
 ![terminal_output](https://user-images.githubusercontent.com/69169627/226170381-a4cdc23c-0d24-4639-b71e-735146159ad1.jpg)
 
 Project folders structure:
+
 ![proj_structure](https://user-images.githubusercontent.com/69169627/226171105-efa22bdd-5e02-4f98-bbfc-59cc5d4416c3.png)
 
