@@ -1,7 +1,7 @@
 "#sd_card_ap4_plus" 
 
 The example demonstrates initialization, write and read of SD CARD connected to Apollo4 Plus SDHC controller. The feature is still not supported
-by the regular SDK4.3 (March/2023). Please check the latest SDK support before use. Following the card initialization, the example writes and verifies block of data. Results are printed out over the UART console.
+by the regular SDK4.3 (March/2023). Please check the latest SDK support before use. Following the card initialization, the example writes and verifies block of data. Results are printed out over the UART console. Cards tested: GOOD RAM 2GB, SANDISK microSDXC Ultra C10 64GB
 The following features are implemented and tested:
 1. Card initialization and data exchange: CMD0, CMD8, ACMD41, CMD2, CMD3, CMD9, CMD7, ACMD51, ACMD6, CMD16, CMD24, CMD17
 2. Blocking DMA mode communication only.
