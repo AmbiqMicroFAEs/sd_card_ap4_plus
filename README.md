@@ -29,3 +29,7 @@ Data block write & read diagram:
 
 UART console output:
 ![terminal_output](https://user-images.githubusercontent.com/69169627/226170381-a4cdc23c-0d24-4639-b71e-735146159ad1.jpg)
+
+Project folders structure:
+![proj_structure](https://user-images.githubusercontent.com/69169627/226171105-efa22bdd-5e02-4f98-bbfc-59cc5d4416c3.png)
+
