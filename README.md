@@ -9,8 +9,8 @@ The following features are implemented and tested:
 
 Prototype board:
 ![board](https://user-images.githubusercontent.com/69169627/226170090-01f10c68-1e93-410a-b8b8-1613e9e38673.png)
-The board includes: I/O logic level 1.8V/3.3V translators (2 x TXB0104 - an application dedicated device should be selected here e.g. NVT4857UK), 3.3V LDO + power switch controlled by SDIO_PWR port
-
+The board includes: I/O logic level 1.8V/3.3V translators (2 x TXB0104 - an application dedicated device should be selected here e.g. NVT4857UK), 3.3V LDO + power switch controlled by SDIO_PWR port. Refer the /doc for documentation.
+ 
 Interconnections:
 
 #define SDIO_D0_PIN   84
